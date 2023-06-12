@@ -87,7 +87,7 @@ main {
     background-color: var(--cor0);
     padding: 10px;
     margin: auto;
-    min-width: 100%;
+    min-width: 200px;
     max-width: 1000px;
 }
 
@@ -118,6 +118,7 @@ main p {
 
 article {
     padding: 15px;
+    width: 100%;
 }
 
 article  a {
